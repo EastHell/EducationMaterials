@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='SOLID'/>
+        <page name='SingleResponsibility'/>
+        <page name='SRP'/>
+        <page name='OpenClosed'/>
+        <page name='OCP'/>
+        <page name='LiskovSubstitution'/>
+        <page name='LSP'/>
+        <page name='InterfaceSegregation'/>
+        <page name='ISP'/>
+        <page name='DependencyInversion'/>
+        <page name='DIP'/>
+    </pages>
+</playground>

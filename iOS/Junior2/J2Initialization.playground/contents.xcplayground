@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' executeOnSourceChanges='true' importAppTypes='true'>
+    <pages>
+        <page name='J2Initialization'/>
+        <page name='Initializers'/>
+        <page name='Designated'/>
+        <page name='Convenience'/>
+        <page name='Required'/>
+        <page name='Failable'/>
+        <page name='DelegationRule1'/>
+        <page name='DelegationRule2'/>
+        <page name='DelegationRule3'/>
+    </pages>
+</playground>

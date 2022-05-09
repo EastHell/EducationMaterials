@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' executeOnSourceChanges='true' importAppTypes='true'>
+    <pages>
+        <page name='ExceptionsJ2'/>
+        <page name='ExceptionType'/>
+        <page name='ErrorProtocol'/>
+        <page name='AnyExceptionType'/>
+        <page name='ThrowException'/>
+        <page name='ErrorHandling'/>
+        <page name='DoCatch'/>
+        <page name='DoCatchNote'/>
+        <page name='OptionalHandling'/>
+        <page name='OptionalHandlingNote'/>
+        <page name='ForceHandling'/>
+    </pages>
+</playground>

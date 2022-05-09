@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' executeOnSourceChanges='true' importAppTypes='true'>
+    <pages>
+        <page name='ClosureEscaping'/>
+        <page name='EscapingVSNoescape'/>
+        <page name='Noescape'/>
+        <page name='ByDefault'/>
+        <page name='EscapingByDefault'/>
+        <page name='EscapingInsideEscaping'/>
+        <page name='EscapingValueType'/>
+        <page name='EscapingReferenceType'/>
+        <page name='NoescapeValueType'/>
+        <page name='NoescapeReferenceType'/>
+    </pages>
+</playground>

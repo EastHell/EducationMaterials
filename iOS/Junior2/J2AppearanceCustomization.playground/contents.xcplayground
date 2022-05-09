@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' executeOnSourceChanges='true' importAppTypes='true'>
+    <pages>
+        <page name='AppearanceCustomization'/>
+        <page name='SystemConfiguration'/>
+        <page name='CustomConfiguration'/>
+        <page name='UIAppearance'/>
+        <page name='UIClassAppearance'/>
+        <page name='DarkMode'/>
+        <page name='DarkModeAdaptiveColors'/>
+        <page name='DarkModeAdaptiveImages'/>
+        <page name='DarkModeCustomViews'/>
+        <page name='DarkModeVisualEffects'/>
+        <page name='DarkModeiOS'/>
+    </pages>
+</playground>
