@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='DesignPatterns'/>
+        <page name='CreationalPatterns'/>
+        <page name='FacrotyMethod'/>
+        <page name='AbstractFactory'/>
+        <page name='Builder'/>
+        <page name='Prototype'/>
+        <page name='Singleton'/>
+        <page name='StructuralPatterns'/>
+        <page name='Adapter'/>
+    </pages>
+</playground>
