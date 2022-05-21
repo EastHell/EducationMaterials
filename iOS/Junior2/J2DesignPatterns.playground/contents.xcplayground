@@ -10,5 +10,6 @@
         <page name='Singleton'/>
         <page name='StructuralPatterns'/>
         <page name='Adapter'/>
+        <page name='Bridge'/>
     </pages>
 </playground>

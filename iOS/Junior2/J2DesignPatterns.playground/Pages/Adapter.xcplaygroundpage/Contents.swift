@@ -43,3 +43,16 @@ Client.someClientCode(target: Target())
 let adaptee = Adaptee()
 adaptee.specificRequest()
 Client.someClientCode(target: Adapter(adaptee: adaptee))
+/*:
+ Необходим, когда нужно использовать сторонний класс, но его интерфейс не соответствует существующему коду.
+
+ Преимущества:
+ - Скрывает от клиента подробности преобразование различных интерфейсов
+
+ Недостатки:
+ - Усложняет код дополнительными классами
+ 
+ ---
+
+ [Next](@next)
+ */
