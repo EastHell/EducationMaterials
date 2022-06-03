@@ -17,5 +17,9 @@
         <page name='Flyweight'/>
         <page name='Proxy'/>
         <page name='BehavioralPatterns'/>
+        <page name='ChainOfResponsibility'/>
+        <page name='Command'/>
+        <page name='Iterator'/>
+        <page name='Mediator'/>
     </pages>
 </playground>
