@@ -23,5 +23,9 @@
         <page name='Mediator'/>
         <page name='Memento'/>
         <page name='Observer'/>
+        <page name='State'/>
+        <page name='Strategy'/>
+        <page name='TemplateMethod'/>
+        <page name='Visitor'/>
     </pages>
 </playground>
